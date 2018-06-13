@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Whats the Weather</string>
+    <string name="cityHint">Enter a city\'s name</string>
+</resources>
